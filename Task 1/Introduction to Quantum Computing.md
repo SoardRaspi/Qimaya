@@ -1,1 +1,1 @@
-
+This is the documentation about the Task 1 of the Womanium Quantum + AI Challenge track. This track deals with the intoduction of Pennylane through the Pennylane Codebook. The chapters “Introduction to Quantum Computing”, “Single-Qubit Gates” and “Circuits with Many Qubits” were practiced by the team in order to get familiarized with the concepts.
