@@ -33,18 +33,11 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
-
-
-Team Member 2:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Soham Prithviraj Pawar
+ - Womanium Program Enrollment ID: WQ24-Fg2FfudxUCC0aAk
 
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+The project is about using a novel method of spatial pixel value encoding for the individual states formed because of the $2^20$ states (20 qubits). To ensure this, the images are padded, seeing the shape of the image currently, and in thhis case, it is padded until the shape of the whole image is 1024x1024.
 
-### Project Presentation Deck:
-_Link a 5min. presentation recording or deck here._
+Unfortunately, because of time contraints and academic commitments, only the image pre-processing part could be implemented.
